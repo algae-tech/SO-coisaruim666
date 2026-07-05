@@ -1,5 +1,6 @@
 # Tutorial - Alterando o MINIX 
 (Certifique-se de estar no endereço da pasta pelo terminal)
+(Descompacte o MINIX do arquivo ou apague-o e use o seu próprio)
 (Sempre substitua "nome" nos comandos pelo nome do arquivo que você está usando (FCFS, LOTTERY, PRIORITY...))
 
 ## Passo 1 — Criar uma ponte e fazer uma cópia do disco
